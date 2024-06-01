@@ -1,15 +1,10 @@
 # neural_net
 
-To install dependencies:
+The goal for this repo is to learn neural networks. Understand the basics from scratch
+and do several experiments
 
-```bash
-bun install
-```
+Goals
 
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.0.15. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+- [ ] Write a neural network (forward pass)
+- [ ] Write the back propagation (backward pass)
+- [ ] Create simple use cases (will think later on what they should be)
